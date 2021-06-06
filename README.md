@@ -40,9 +40,9 @@ In Header Component, i have wraped the image, ul-li tag inside the div and also 
   Finally, after all works done i imported  react routing DOM from here->https://reactrouter.com/web/guides/quick-start and i included it to my project for routing without any refreshing navigation. 
   
   
-  To install  React routing 
+  To install  React routing DOM
   
-   npm install react-router-dom
+   ## `npm install react-router-dom`
 
   
   
