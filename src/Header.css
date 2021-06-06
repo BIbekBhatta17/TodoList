@@ -1,0 +1,34 @@
+.Header{
+    top: 0;
+    background-color: rgba(57, 116, 234, 0.845);
+    position: sticky;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+
+
+}
+
+
+.Header >ul{
+    height: 40px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+ 
+}
+.Header>ul>img{
+    height: 35px;
+}
+
+.Header>ul>li>a{
+    text-decoration: none;
+    color: white;
+    
+   
+}
+.Header>ul>li{
+    list-style: none;
+    padding: 0 40px;
+   
+}

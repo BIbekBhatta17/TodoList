@@ -1,0 +1,14 @@
+.About>img{
+    width: 400px;
+    margin: 20px 20px 40px 40px;
+    box-shadow: 20px 0px 20px ;
+    border-radius: 20px;
+    border-style: double;
+}
+.caption{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+   float: left;
+   float: right;
+   font-size: 40px;
+}
+

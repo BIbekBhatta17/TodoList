@@ -1,0 +1,14 @@
+.Message_card{
+  margin-left: 100px;
+  margin-top: 100px;
+  font-size: 50px;
+  font-weight: 500;
+  width: 30%;
+  box-shadow: 0px 0px 100px;
+  border: none;
+  border-radius: 20px;
+  padding: 20px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
