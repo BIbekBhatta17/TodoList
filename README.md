@@ -24,7 +24,7 @@ In Header Component, i have wraped the image, ul-li tag inside the div and also 
  Inside the App component. 
    In react, App component is one of the base level  component. In order to render our newly designed header component i have  decleared it inside the return function. 
    The declearation looks like {<Header/>}.
-   But react expects import it at the header section of the components.
+   But react expects to import it at the header section of the components.
    Also, I decleared some banch of component as following
    1) MyDatas
    2) AddMyData
@@ -41,8 +41,7 @@ In Header Component, i have wraped the image, ul-li tag inside the div and also 
   
   
   To install  React routing DOM
-  
-   ## `npm install react-router-dom`
+   `npm install react-router-dom`
 
   
   
@@ -50,13 +49,12 @@ In Header Component, i have wraped the image, ul-li tag inside the div and also 
   
 
 
-
-
-
+Project looks like this 
 
   
   
-  
+  <img width="1680" alt="Screen Shot 2021-06-06 at 19 58 46" src="https://user-images.githubusercontent.com/85444897/120927819-ed982d00-c701-11eb-831e-fb22bea6aee0.png">
+
 
 
 
