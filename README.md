@@ -30,8 +30,7 @@ In Header Component, i have wraped the image, ul-li tag inside the div and also 
    2) AddMyData
    3)Footer
    
-
-    I passed some data to the MyData component.
+   I passed some data to the MyData component.
    Further, MyDatas components passes the data one by one  usnig the map loop function  to the MyValue component  in order to  render the data individually.
 
 
@@ -39,6 +38,13 @@ In Header Component, i have wraped the image, ul-li tag inside the div and also 
 
 
   Finally, after all works done i imported  react routing DOM from here->https://reactrouter.com/web/guides/quick-start and i included it to my project for routing without any refreshing navigation. 
+  
+  
+  To install  React routing 
+  
+   npm install react-router-dom
+
+  
   
   Thank you😁😁
   
