@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 Hi, I hope you are great.  I have created some basic Todo app using react. if you are interested on react, you should walk on my code. Lets walk on my code. 😉
 
-Fistly, i created some js component including Header, Footer, MyData, MyValue,Contact, AddMyData and About.
+Firstly, i created some js component including Header, Footer, MyData, MyValue,Contact, AddMyData and About.
 
 First we re going to inside the Header component.
 In Header Component, i have wraped the image, ul-li tag inside the div and also in order to some styling at our header, i 've decleared the class named ->'Header'. Inside our css of the Header, i flexed out all    all child tag (i.e img,ul-li) horizontally so that our header looks attactive.
